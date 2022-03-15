@@ -5,7 +5,6 @@
 *   * followed by a new line
 *    * Return: Always 0 (Success)
 */
-
 int main(void)
 {
 	long int i, j, k, next;
@@ -27,6 +26,5 @@ int main(void)
 		j = k;
 		k = next;
 	}
-
 	return (0);
-}				
+}
