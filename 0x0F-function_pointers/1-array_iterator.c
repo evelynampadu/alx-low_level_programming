@@ -1,3 +1,4 @@
+#include <stddef.h>
 #include "main.h"
 /**
 *  * array_iterator - this functions iterates an array
