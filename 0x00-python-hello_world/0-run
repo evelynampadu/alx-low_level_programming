@@ -1,1 +1,2 @@
-asnbfksfjaskbfkasf
+#!/bin/bash
+python $PYFILE
